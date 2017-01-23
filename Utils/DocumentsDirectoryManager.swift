@@ -3,7 +3,7 @@
 //  Dipio
 //
 //  Created by Alex Golub on 11/11/16.
-//  Copyright © 2016 Dipio. All rights reserved.
+//  Copyright © 2016 Codeveyor. All rights reserved.
 //
 
 import Foundation
